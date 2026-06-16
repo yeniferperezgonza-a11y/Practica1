@@ -1,5 +1,5 @@
 # Practica1
 ## Bienvenido a este inicio de secion
-**es una practica reaalizada por estudiante**
+**Es una practica realizada por estudiante´s**
 
 **https://yeniferperezgonza-a11y.github.io/Practica1/**
